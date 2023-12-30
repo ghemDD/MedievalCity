@@ -1,6 +1,4 @@
----
-title: Procedurally generated medieval castle
----
+# Medieval City Generator
 
 ![castle_drawing](images/castle.jpg)
 
