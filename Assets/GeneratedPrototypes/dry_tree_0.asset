@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b64005037dde24b4ab9636052b843537, type: 3}
+  m_Name: dry_tree_0
+  m_EditorClassIdentifier: 
+  meshRotation: 0
+  prefab: {fileID: 6013024405325220409, guid: 31b4ba4fd2aee0d4281c4c072fbc5139, type: 3}
+  translate: {x: 0, y: 0, z: 0}
+  rotate: {x: 0, y: 0, z: 0}
+  random_rotation: 1
+  terminal: 1
+  parentLinked: 0
+  posX: 2
+  negX: 2
+  posY: 5
+  negY: 0
+  posZ: 2
+  negZ: 2

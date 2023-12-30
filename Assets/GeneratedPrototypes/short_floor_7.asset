@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b64005037dde24b4ab9636052b843537, type: 3}
+  m_Name: short_floor_7
+  m_EditorClassIdentifier: 
+  meshRotation: 3
+  prefab: {fileID: 5491461737985326216, guid: 0b15e4907aa317e4da42108eefe30db2, type: 3}
+  translate: {x: 0, y: 0, z: 0}
+  rotate: {x: 0, y: 0, z: 0}
+  random_rotation: 0
+  terminal: 0
+  parentLinked: 0
+  posX: 3
+  negX: 1
+  posY: 7
+  negY: 0
+  posZ: 2
+  negZ: 2
